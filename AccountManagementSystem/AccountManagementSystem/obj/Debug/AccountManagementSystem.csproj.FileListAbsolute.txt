@@ -1,0 +1,12 @@
+C:\Users\Icarus\Documents\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.exe.config
+C:\Users\Icarus\Documents\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.exe
+C:\Users\Icarus\Documents\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.pdb
+C:\Users\Icarus\Documents\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.exe
+C:\Users\Icarus\Documents\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.pdb
+D:\DOCS\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.exe.config
+D:\DOCS\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.exe
+D:\DOCS\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.pdb
+D:\DOCS\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.exe
+D:\DOCS\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.pdb
+D:\DOCS\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.csproj.AssemblyReference.cache
+D:\DOCS\Visual Studio 2012\Projects\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.csproj.CoreCompileInputs.cache
